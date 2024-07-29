@@ -5,7 +5,7 @@
 
 ![Architecture Diagram](img/Cloudresume-Architecture.jpg)
 
-**Services Used**:
+## Services Used :
 ![Services](img/Cloudresume-Services.jpg)
 
 - AWS Lambda
