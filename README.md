@@ -1,6 +1,6 @@
 # AWS_Cloud-Resume
-  This is an Architecture and a Live working website of a CLOUD_RESUME_CHALLENGE built using "Amazon Web Services". 
-  It is a Multitier process of building your Portfolio/Resume for upskilling in Cloud-computing, AWS etc..
+This is an Architecture and a Live working website of a CLOUD_RESUME_CHALLENGE built using "Amazon Web Services". 
+It is a Multitier process of building your Portfolio/Resume for upskilling in Cloud-computing, AWS etc..
 
 ## Architecture :
 
