@@ -1,7 +1,7 @@
 # AWS_Cloud-Resume
   
 
-## Architecture
+## Architecture :
 
 ![Architecture Diagram](img/Cloudresume-Architecture.jpg)
 
