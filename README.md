@@ -15,8 +15,8 @@
 - IAM
 - GitHub Actions
 
-## Go Live for this website
-![https://www.akhilpasha.tech](https://www.akhilpasha.tech/)
+## [Go Live for this website](https://www.akhilpasha.tech/)
+
 
 ## Done by
 - LinkedIn:[AkhilPasha](https://www.linkedin.com/in/akhilpasha/)
